@@ -26,7 +26,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/Musicana_DB.git
+git clone https://github.com/abdo7amdy/Musicana_DB.git
 cd Musicana_DB
 Import the database schema
 sql
